@@ -2,6 +2,8 @@
 
 An interactive Sales Dashboard created using Microsoft Excel to analyze sales performance and provide clear business insights.
 
+![Sales Dashboard Preview](Sales%20Dashboard%20Preview%20Image.png)
+
 ## Project Overview
 
 This project transforms sales data into an interactive dashboard using Excel PivotTables, PivotCharts, KPIs, Slicers, and a Timeline.
